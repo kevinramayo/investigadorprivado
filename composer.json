@@ -1,0 +1,14 @@
+{
+    "name": "kevin/investigador",
+    "description": "mi negocio web",
+    "type": "project",
+    "authors": [
+        {
+            "name": "kevin ramayo",
+            "email": "ramashoalv@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "4.5.2"
+    }
+}
