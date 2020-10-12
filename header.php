@@ -30,12 +30,12 @@ echo <<<_MAIN
       <div>
          <div>
             <div id= 'logo' class='center'>Investigador Privado
-            <img src="../img/lupa.png" class="imglogo"></div>
+            <img src="img/lupa.png" class="imglogo"></div>
 
             <div class="row justify-content-sm-center">
             <div class="col-sm-3">
               <div class="cards">
-              <img src="../img/feis.png" class="contactos" alt="...">
+              <img src="img/feis.png" class="contactos" alt="...">
                 <div class="card-body">
                   <h6 class="titulos">Investigadores Privados MX</h6>
                   <p class="titulos">Pagina de Facebook</p>
@@ -44,7 +44,7 @@ echo <<<_MAIN
             </div>
             <div class="col-sm-2">
               <div class="cards">
-              <img src="../img/insta.png" class="contactos" alt="...">
+              <img src="img/insta.png" class="contactos" alt="...">
                 <div class="card-body">
                   <h6 class="titulos">InvestigadoresMXK</h6>
                   <p class="titulos">Siguenos en instagram</p>
@@ -53,7 +53,7 @@ echo <<<_MAIN
             </div>
             <div class="col-sm-3">
               <div class="cards">
-              <img src="../img/twiter.jpg" class="contactos" alt="...">
+              <img src="img/twiter.jpg" class="contactos" alt="...">
                 <div class="card-body">
                   <h6 class="titulos">InvestigadoresMXOficial</h6>
                   <p class="titulos">Siguenos en Twitter</p>
@@ -71,7 +71,7 @@ echo <<<_LOGGEDIN
          <nav class="navbar navbar-light bg-light">
          <a class="navbar-brand" href="home.php">
          InvestigadoresPrivadosMX
-           <img src="../img/lupa.png" width="30" height="30" class="d-inline-block align-top" alt="">
+           <img src="img/lupa.png" width="30" height="30" class="d-inline-block align-top" alt="">
          </a>
          <ul class="nav justify-content-end">
          <li class="nav-item">
@@ -110,16 +110,16 @@ echo <<<_GUEST
          <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
          <div class="carousel-inner">
            <div id= "centro" class="carousel-item active">
-             <img src="../img/invepng.png" class="tamaño" alt="...">
+             <img src="img/invepng.png" class="tamaño" alt="...">
            </div>
            <div id= "centro" class="carousel-item">
-             <img src="../img/carrusel-2.png" class="tamaño" alt="...">
+             <img src="img/carrusel-2.png" class="tamaño" alt="...">
            </div>
            <div id= "centro" class="carousel-item">
-             <img src="../img/carrusel-3.png" class="tamaño" alt="...">
+             <img src="img/carrusel-3.png" class="tamaño" alt="...">
            </div>
            <div id= "centro" class="carousel-item">
-             <a href='signup.php'><img src="../img/carrusel-4.png" class="tamaño" alt="..."></a>
+             <a href='signup.php'><img src="img/carrusel-4.png" class="tamaño" alt="..."></a>
            </div>
          </div>
          <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">

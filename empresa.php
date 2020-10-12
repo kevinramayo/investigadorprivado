@@ -13,13 +13,13 @@ echo <<<_END
           <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="../img/empresa.jpg" class="imginfe" alt="...">
+                <img src="img/empresa.jpg" class="imginfe" alt="...">
             </div>
             <div class="carousel-item">
-              <img src="../img/empresa2.jpg" class="imginfe" alt="...">
+              <img src="img/empresa2.jpg" class="imginfe" alt="...">
             </div>
             <div class="carousel-item">
-              <img src="../img/empresa3.jpg" class="imginfe" alt="...">
+              <img src="img/empresa3.jpg" class="imginfe" alt="...">
             </div>
           </div>
         </div>

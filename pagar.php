@@ -18,7 +18,7 @@
       {
         queryMysql("INSERT INTO informacion (user,servicio,nombre,apellido,correo,contacto,pago) VALUES('$user','$servicio', '$nombre', '$apellido', '$correo', '$contacto', '$pago')");
           die('<h4>Datos Enviados</h4>Nos comunicaremos con usted para ajustar detalles.<h6>Gracias por confiar en Detectives privadosMX</h6>
-          <img src="../img/ok.gif" class="gif"></div></body></html>');
+          <img src="img/ok.gif" class="gif"></div></body></html>');
       }
     } 
 
@@ -76,7 +76,7 @@ echo <<<_END
         <div class="nocentro">
           <div class="col-sm-3">
             <label>Metodos de pago</label>
-            <img src="../img/metodos.png" class="metodosdepago">
+            <img src="img/metodos.png" class="metodosdepago">
           </div>
         </div>
         <label class="nocentro">Fecha de expiracion</label>

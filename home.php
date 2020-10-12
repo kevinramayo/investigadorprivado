@@ -9,7 +9,7 @@ echo <<<_END
         <div class="row">
         <a href="infidelidad.php"><div class="col-sm-3">
           <div class="cartas">
-          <img src="../img/infe.jpg" class="imgcarta" alt="...">
+          <img src="img/infe.jpg" class="imgcarta" alt="...">
             <div class="card-body">
               <h5 class="card-title">Infidelidades</h5>
             </div></a>
@@ -17,7 +17,7 @@ echo <<<_END
         </div>
         <a href="empresa.php"><div class="col-sm-3">
           <div class="cartas">
-          <img src="../img/empresa.jpg" class="imgcarta" alt="...">
+          <img src="img/empresa.jpg" class="imgcarta" alt="...">
             <div class="card-body">
               <h5 class="card-title">Empresariales</h5>
             </div></a>
@@ -25,7 +25,7 @@ echo <<<_END
         </div>
         <a href="localizaciones.php"><div class="col-sm-3">
           <div class="cartas">
-          <img src="../img/buscar.jpg" class="imgcarta" alt="...">
+          <img src="img/buscar.jpg" class="imgcarta" alt="...">
             <div class="card-body">
               <h5 class="card-title">Localizaciones</h5>
             </div></a>
@@ -33,7 +33,7 @@ echo <<<_END
         </div>
         <a href="tel.php"><div class="col-sm-3">
           <div class="cartas">
-          <img src="../img/celular.jpg" class="imgcarta" alt="...">
+          <img src="img/celular.jpg" class="imgcarta" alt="...">
             <div class="card-body">
               <h5 class="card-title">Inv. Telefonicas</h5>
             </div></a>
